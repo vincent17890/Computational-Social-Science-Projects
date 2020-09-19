@@ -1,0 +1,8 @@
+git init
+git clone https://github.com/vincent17890/Computational-Social-Science-Projects
+cd Computational-Social-Science-Projects/
+mkdir Project-1
+cd Project-1/
+git add allcommands.txt
+git commit -m 'add command txt'
+git push origin master
